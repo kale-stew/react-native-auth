@@ -68,4 +68,5 @@ export * from './Button';
     // props allowed: size (large or small) 
     // our code: by default, if a prop is not passed, display 'large'
 
+// CONDITIONAL RENDERING 
 // conditional rendering is best done in helper methods 
