@@ -16,3 +16,4 @@
     // validating user data
     // incorrect password = big error message
     // attempting to log a user in = display a spinner
+
